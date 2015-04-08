@@ -41,3 +41,5 @@ nnoremap <leader>sv :source $MYVIMRC<CR>
 nnoremap <leader>sgv :source $MYGVIMRC<CR>
 noremap <F8> :TagbarToggle<CR> 
 noremap <C-n> :NERDTreeToggle<CR>
+inoremap kj <ESC>
+inoremap lj <ESC>o
